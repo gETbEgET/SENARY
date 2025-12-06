@@ -45,6 +45,7 @@ It is alive.
 
 ### How to run
 ```bash
-git clone https://github.com/GETBEGET/PROTONSIXTAI.git
-cd PROTONSIXTAI
-python PROTONSIXTAI_v5.py
+git clone https://github.com/gETbEgET/SENARY.git
+cd SENARY
+pip install pygame numpy matplotlib scipy
+python PROTONSIXTAI_V5.py
